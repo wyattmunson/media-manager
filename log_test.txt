@@ -1,0 +1,60 @@
+13:41:25,996 root INFO Running Urban Planning
+13:53:06,534 root INFO Running Urban Planning
+13:53:16,726 root INFO Running Urban Planning
+14:07:07,148 root INFO ======== START TRANSFER ========
+14:07:07,148 root INFO Selected targets: ['/Volumes/WyDrive_MIA/videos/tv', '/Volumes/WyDrive_NRT/tv/']
+14:07:07,148 root INFO ..Transferring to a target..
+14:07:07,148 root INFO 	Source: South Park (1997) 
+	Target: /Volumes/WyDrive_MIA/videos/tv
+14:07:37,622 root INFO Tranfer to "/Volumes/WyDrive_MIA/videos/tv" complete
+14:07:37,622 root INFO Runtime was 30.473392963409424 seconds
+14:07:37,622 root INFO ..Transferring to a target..
+14:07:37,622 root INFO 	Source: South Park (1997) 
+	Target: /Volumes/WyDrive_NRT/tv/
+14:08:28,655 root INFO Tranfer to "/Volumes/WyDrive_NRT/tv/" complete
+14:08:28,656 root INFO Runtime was 51.032946825027466 seconds
+14:08:28,656 root INFO Total runtime: 81.50755095481873 seconds
+14:09:30,223 root INFO ======== START TRANSFER ========
+14:09:30,223 root INFO Selected targets: ['/Volumes/WyDrive_MIA/videos/tv', '/Volumes/WyDrive_NRT/tv/']
+14:09:30,223 root INFO ..Transferring to a target..
+14:09:30,224 root INFO 	Source: Trailer_Park_Boys (2001) 
+	Target: /Volumes/WyDrive_MIA/videos/tv
+14:10:28,96 root INFO ======== START TRANSFER ========
+14:10:28,96 root INFO Selected targets: ['/Volumes/WyDrive_MIA/videos/tv', '/Volumes/WyDrive_NRT/tv/']
+14:10:28,96 root INFO ..Transferring to a target..
+14:10:28,96 root INFO 	Source: Trailer_Park_Boys (2001) 
+	Target: /Volumes/WyDrive_MIA/videos/tv
+14:11:49,92 root INFO Tranfer to "/Volumes/WyDrive_MIA/videos/tv" complete
+14:11:49,93 root INFO Runtime was 80.99590802192688 seconds
+14:11:49,93 root INFO ..Transferring to a target..
+14:11:49,93 root INFO 	Source: Trailer_Park_Boys (2001) 
+	Target: /Volumes/WyDrive_NRT/tv/
+14:14:17,421 root INFO Tranfer to "/Volumes/WyDrive_NRT/tv/" complete
+14:14:17,421 root INFO Runtime was 148.32804417610168 seconds
+14:14:17,421 root INFO Total runtime: 229.32489395141602 seconds
+14:16:48,335 root INFO ======== START TRANSFER ========
+14:16:48,335 root INFO Selected targets: ['/Volumes/WyDrive_MIA/videos/movies', '/Volumes/WyDrive_NRT/movies/']
+14:16:48,335 root INFO ..Transferring to a target..
+14:16:48,335 root INFO 	Source: Spirited_Away (2001) 
+	Target: /Volumes/WyDrive_MIA/videos/movies
+14:17:41,863 root INFO Tranfer to "/Volumes/WyDrive_MIA/videos/movies" complete
+14:17:41,864 root INFO Runtime was 53.52796792984009 seconds
+14:17:41,864 root INFO ..Transferring to a target..
+14:17:41,864 root INFO 	Source: Spirited_Away (2001) 
+	Target: /Volumes/WyDrive_NRT/movies/
+14:18:55,785 root INFO Tranfer to "/Volumes/WyDrive_NRT/movies/" complete
+14:18:55,786 root INFO Runtime was 73.92150712013245 seconds
+14:18:55,786 root INFO Total runtime: 127.45093202590942 seconds
+14:20:40,24 root INFO ======== START TRANSFER ========
+14:20:40,25 root INFO Selected targets: ['/Volumes/WyDrive_MIA/videos/movies', '/Volumes/WyDrive_NRT/movies/']
+14:20:40,25 root INFO ..Transferring to a target..
+14:20:40,25 root INFO 	Source: Guardians_of_the_Galaxy_Vol._3 (2023) 
+	Target: /Volumes/WyDrive_MIA/videos/movies
+14:24:03,856 root INFO Tranfer to "/Volumes/WyDrive_MIA/videos/movies" complete
+14:24:03,856 root INFO Runtime was 203.83151602745056 seconds
+14:24:03,856 root INFO ..Transferring to a target..
+14:24:03,857 root INFO 	Source: Guardians_of_the_Galaxy_Vol._3 (2023) 
+	Target: /Volumes/WyDrive_NRT/movies/
+14:29:13,633 root INFO Tranfer to "/Volumes/WyDrive_NRT/movies/" complete
+14:29:13,633 root INFO Runtime was 309.7761378288269 seconds
+14:29:13,633 root INFO Total runtime: 513.6083128452301 seconds

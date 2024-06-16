@@ -1,0 +1,13 @@
+16:15:02,97 root INFO ======== START TRANSFER ========
+16:15:02,97 root INFO Selected targets: ['/Volumes/WyDrive_MIA/videos/movies', '/Volumes/WyDrive_NRT/movies/']
+16:15:02,97 root INFO ..Transferring to a target..
+16:15:02,97 root INFO 	Source: The_Manchurian_Candidate (1962) 
+	Target: /Volumes/WyDrive_MIA/videos/movies
+16:23:53,80 root INFO Tranfer to "/Volumes/WyDrive_MIA/videos/movies" complete
+16:23:53,81 root INFO Runtime was 530.9825308322906 seconds
+16:23:53,81 root INFO ..Transferring to a target..
+16:23:53,81 root INFO 	Source: The_Manchurian_Candidate (1962) 
+	Target: /Volumes/WyDrive_NRT/movies/
+16:36:43,707 root INFO Tranfer to "/Volumes/WyDrive_NRT/movies/" complete
+16:36:43,708 root INFO Runtime was 770.6258172988892 seconds
+16:36:43,708 root INFO Total runtime: 1301.6107251644135 seconds
