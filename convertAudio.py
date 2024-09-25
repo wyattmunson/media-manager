@@ -1,0 +1,68 @@
+import subprocess
+dir_list=["/Volumes/WyDriveBlue/Frank Sinatra with Count Basie & His Orchestra/Sinatra at the Sands [1998] [CD]", 
+"/Volumes/WyDriveBlue/Funkadelic/Maggot Brain [1989] [CD]", 
+"/Volumes/WyDriveBlue/George Harrison/All Things Must Pass [2001] [CD]", 
+"/Volumes/WyDriveBlue/Gojira/L’Enfant sauvage [2012] [CD]", 
+"/Volumes/WyDriveBlue/Gojira/Fortitude [2021] [Digital Media]", 
+"/Volumes/WyDriveBlue/Gorillaz/Plastic Beach [2010] [CD]", 
+"/Volumes/WyDriveBlue/Grimes/Miss Anthropocene [2020] [Digital Media]", 
+"/Volumes/WyDriveBlue/Grizzly Bear/Shields [2012] [CD]", 
+"/Volumes/WyDriveBlue/Guns N’ Roses/Appetite for Destruction [1987] [12_ Vinyl]", 
+"/Volumes/WyDriveBlue/John Wizards/John Wizards [2013] [CD]", 
+"/Volumes/WyDriveBlue/Jungle/Jungle [2014] [CD]", 
+"/Volumes/WyDriveBlue/Justice/✝ [2007] [CD]", 
+"/Volumes/WyDriveBlue/Jurassic 5/Power in Numbers [2002] [CD]", 
+"/Volumes/WyDriveBlue/Kamasi Washington/The Epic [2015] [CD]", 
+"/Volumes/WyDriveBlue/Kanye West/The College Dropout [2005] [CD]", 
+"/Volumes/WyDriveBlue/Kendrick Lamar/To Pimp a Butterfly [2015] [CD]", 
+"/Volumes/WyDriveBlue/Kendrick Lamar/untitled unmastered. [2016] [CD]", 
+"/Volumes/WyDriveBlue/King Tuff/King Tuff [2012] [CD]", 
+"/Volumes/WyDriveBlue/Kraftwerk/Trans Europe Express [2009] [CD]", 
+"/Volumes/WyDriveBlue/Kraftwerk/Minimum-Maximum [2005] [Copy Control CD]", 
+"/Volumes/WyDriveBlue/Lauryn Hill/The Miseducation of Lauryn Hill [1998] [CD]", 
+"/Volumes/WyDriveBlue/LCD Soundsystem/Sound of Silver [2007] [CD]", 
+"/Volumes/WyDriveBlue/LCD Soundsystem/This Is Happening [2010] [CD]", 
+"/Volumes/WyDriveBlue/Led Zeppelin/Led Zeppelin III [1970] [12_ Vinyl]", 
+"/Volumes/WyDriveBlue/Led Zeppelin/Led Zeppelin II [1969] [Vinyl]", 
+"/Volumes/WyDriveBlue/Led Zeppelin/[Led Zeppelin IV] [1971] [12_ Vinyl]", 
+"/Volumes/WyDriveBlue/Led Zeppelin/How the West Was Won [2003] [CD]", 
+"/Volumes/WyDriveBlue/Led Zeppelin/Coda [1990] [CD]", 
+"/Volumes/WyDriveBlue/Louis Armstrong/Louis Armstrong Plays W.C. Handy [1987] [CD]", 
+"/Volumes/WyDriveBlue/Mac DeMarco/2 [2012] [CD]", 
+"/Volumes/WyDriveBlue/Mac DeMarco/Salad Days [2014] [CD]", 
+"/Volumes/WyDriveBlue/Neutral Milk Hotel/In the Aeroplane Over the Sea [1998] [CD]", 
+"/Volumes/WyDriveBlue/No Doubt/Tragic Kingdom [1995] [CD]", 
+"/Volumes/WyDriveBlue/Philip Glass/Orion [2005] [CD]", 
+"/Volumes/WyDriveBlue/Phoenix/United [2000] [CD]", 
+"/Volumes/WyDriveBlue/Phoenix/Wolfgang Amadeus Phoenix [2009] [CD]", 
+"/Volumes/WyDriveBlue/Pink Floyd/The Wall [2011] [CD]", 
+"/Volumes/WyDriveBlue/Radiohead/My Iron Lung [1994] [CD]", 
+"/Volumes/WyDriveBlue/Radiohead/The Bends [1995] [CD]", 
+"/Volumes/WyDriveBlue/Radiohead/Kid A [2000] [CD]", 
+"/Volumes/WyDriveBlue/Radiohead/In Rainbows [2007] [CD]", 
+"/Volumes/WyDriveBlue/Radiohead/Hail to the Thief [2009] [CD]", 
+"/Volumes/WyDriveBlue/Radiohead/Amnesiac [2009] [CD]", 
+"/Volumes/WyDriveBlue/Rage Against the Machine/Rage Against the Machine [1992] [CD]", 
+"/Volumes/WyDriveBlue/Ramones/Ramones [1990] [CD]", 
+"/Volumes/WyDriveBlue/Ratatat/Classics [2006] [CD]", 
+"/Volumes/WyDriveBlue/Ratatat/LP3 [2008] [CD]", 
+"/Volumes/WyDriveBlue/Ratatat/LP4 [2010] [CD]", 
+"/Volumes/WyDriveBlue/Ravi Shankar/The Sounds of India [1989] [CD]", 
+"/Volumes/WyDriveBlue/Ray Charles/Modern Sounds in Country and Western Music [1988] [CD]", 
+"/Volumes/WyDriveBlue/Real Estate/Real Estate [2009] [CD]", 
+"/Volumes/WyDriveBlue/Real Estate/Atlas [2014] [CD]", 
+"/Volumes/WyDriveBlue/Real Estate/Days [2011] [CD]", 
+"/Volumes/WyDriveBlue/Red Hot Chili Peppers/Californication [1999] [CD]", 
+"/Volumes/WyDriveBlue/Red Hot Chili Peppers/Stadium Arcadium [2006] [CD]", 
+"/Volumes/WyDriveBlue/Red Hot Chili Peppers/By the Way [2002] [CD]", 
+"/Volumes/WyDriveBlue/Red Hot Chili Peppers/Blood Sugar Sex Magik [1991] [CD]"]
+
+print("===> CONVERTING AUDIO...")
+
+for it in dir_list:
+    print("===> Processing dir:", it)
+    try:
+        result = subprocess.run(["./audioConvertDir.sh", it], capture_output=True)
+        print(result.stdout)
+    except subprocess.CalledProcessError as e:
+        print(f"Error processing file {it}: {e}")

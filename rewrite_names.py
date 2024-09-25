@@ -20,12 +20,13 @@ class Remover:
         self.dir = dir
 
     def remove_prefix(self):
-        print("..Removing prefix..")
+        print("==> Removing prefix...")
         dir = self.dir
         for filename in os.listdir(dir):
             # print("Evaluating", filename)
-            prefix = "[SPOTIFY-DOWNLOADER.COM] "
             prefix = " - fiveofseven"
+            prefix = "20240701_"
+            prefix = "[SPOTIFY-DOWNLOADER.COM] "
             # if filename.startswith(prefix):
             # if filename.endswith(prefix):
             if prefix in filename:
@@ -39,8 +40,8 @@ class Remover:
 
 def remove_prefix(dir):
     for filename in os.listdir(dir):
-        prefix = "[SPOTIFY-DOWNLOADER.COM] "
-        prefix = " - fiveofseven"
+        prefix = "20240701_"
+        # prefix = " - fiveofseven"
         if filename.startswith(prefix):
             new_filename = filename.replace(prefix, "", 1)
             # Construct the full paths for old and new filenames

@@ -29,8 +29,8 @@ target_path = "/Volumes/wyblock/transfer/tv/"
 
 # target_list = ["/Volumes/WyDrive_MIA/videos/tv", "/Volumes/WyDrive_NRT/tv/", "/Volumes/wyblock/transfer/tv/"]
 # target_list = ["/Volumes/WyDrive_MIA/videos/movies", "/Volumes/WyDrive_NRT/movies/", "/Volumes/wyblock/transfer/movies/"]
-target_list = ["/Volumes/WyDrive_MIA/videos/tv", "/Volumes/WyDrive_NRT/tv/"]
 target_list = ["/Volumes/WyDrive_MIA/videos/movies", "/Volumes/WyDrive_NRT/movies/"]
+target_list = ["/Volumes/WyDrive_MIA/videos/tv", "/Volumes/WyDrive_NRT/tv/"]
 
 print("..Preparing to transfer to all targets..")
 logging.info(f'Selected targets: {target_list}')

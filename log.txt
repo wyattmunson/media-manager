@@ -11,3 +11,157 @@
 16:36:43,707 root INFO Tranfer to "/Volumes/WyDrive_NRT/movies/" complete
 16:36:43,708 root INFO Runtime was 770.6258172988892 seconds
 16:36:43,708 root INFO Total runtime: 1301.6107251644135 seconds
+20:08:51,655 root INFO ======== START TRANSFER ========
+20:08:51,655 root INFO Selected targets: ['/Volumes/WyDrive_MIA/videos/tv', '/Volumes/WyDrive_NRT/tv/']
+20:08:51,655 root INFO ..Transferring to a target..
+20:08:51,655 root INFO 	Source: The_White_Lotus (2021) 
+	Target: /Volumes/WyDrive_MIA/videos/tv
+20:11:23,286 root INFO Tranfer to "/Volumes/WyDrive_MIA/videos/tv" complete
+20:11:23,287 root INFO Runtime was 151.63089203834534 seconds
+20:11:23,287 root INFO ..Transferring to a target..
+20:11:23,287 root INFO 	Source: The_White_Lotus (2021) 
+	Target: /Volumes/WyDrive_NRT/tv/
+20:15:02,549 root INFO Tranfer to "/Volumes/WyDrive_NRT/tv/" complete
+20:15:02,549 root INFO Runtime was 219.26215887069702 seconds
+20:15:02,549 root INFO Total runtime: 370.8943340778351 seconds
+21:19:25,140 root INFO ======== START TRANSFER ========
+11:07:58,222 root INFO ======== START TRANSFER ========
+11:07:58,223 root INFO Selected targets: ['/Volumes/WyDrive_MIA/videos/tv', '/Volumes/WyDrive_NRT/tv/']
+11:07:58,223 root INFO ..Transferring to a target..
+11:07:58,223 root INFO 	Source: It's Always Sunny in Philadelphia (2005) Season 1-13 S01-S13 (Mixed x265 HEVC 10bit AAC BugsFunny) [UTR] 
+	Target: /Volumes/WyDrive_MIA/videos/tv
+11:09:19,511 root INFO ======== START TRANSFER ========
+11:09:19,511 root INFO Selected targets: ['/Volumes/WyDrive_MIA/videos/tv', '/Volumes/WyDrive_NRT/tv/']
+11:09:19,511 root INFO ..Transferring to a target..
+11:09:19,511 root INFO 	Source: Its_Always_Sunny_in_Philadelphia (2005) 
+	Target: /Volumes/WyDrive_MIA/videos/tv
+11:38:19,100 root INFO Tranfer to "/Volumes/WyDrive_MIA/videos/tv" complete
+11:38:19,102 root INFO Runtime was 1739.588593006134 seconds
+11:38:19,102 root INFO ..Transferring to a target..
+11:38:19,102 root INFO 	Source: Its_Always_Sunny_in_Philadelphia (2005) 
+	Target: /Volumes/WyDrive_NRT/tv/
+11:41:15,271 root INFO Tranfer to "/Volumes/WyDrive_NRT/tv/" complete
+11:41:15,273 root INFO Runtime was 176.16860961914062 seconds
+11:41:15,273 root INFO Total runtime: 1915.761801958084 seconds
+11:46:58,132 root INFO ======== START TRANSFER ========
+11:46:58,133 root INFO Selected targets: ['/Volumes/WyDrive_MIA/videos/tv', '/Volumes/WyDrive_NRT/tv/']
+11:46:58,133 root INFO ..Transferring to a target..
+11:46:58,133 root INFO 	Source: Shrinking (2023) 
+	Target: /Volumes/WyDrive_MIA/videos/tv
+11:49:50,360 root INFO Tranfer to "/Volumes/WyDrive_MIA/videos/tv" complete
+11:49:50,362 root INFO Runtime was 172.22709798812866 seconds
+11:49:50,362 root INFO ..Transferring to a target..
+11:49:50,362 root INFO 	Source: Shrinking (2023) 
+	Target: /Volumes/WyDrive_NRT/tv/
+11:53:59,527 root INFO Tranfer to "/Volumes/WyDrive_NRT/tv/" complete
+11:53:59,528 root INFO Runtime was 249.16464400291443 seconds
+11:53:59,528 root INFO Total runtime: 421.39507484436035 seconds
+11:54:32,211 root INFO ======== START TRANSFER ========
+11:54:32,211 root INFO Selected targets: ['/Volumes/WyDrive_MIA/videos/tv', '/Volumes/WyDrive_NRT/tv/']
+11:54:32,211 root INFO ..Transferring to a target..
+11:54:32,211 root INFO 	Source: How_Music_Got_Free (2024) 
+	Target: /Volumes/WyDrive_MIA/videos/tv
+11:55:00,11 root INFO Tranfer to "/Volumes/WyDrive_MIA/videos/tv" complete
+11:55:00,11 root INFO Runtime was 27.79904270172119 seconds
+11:55:00,11 root INFO ..Transferring to a target..
+11:55:00,11 root INFO 	Source: How_Music_Got_Free (2024) 
+	Target: /Volumes/WyDrive_NRT/tv/
+11:55:36,654 root INFO Tranfer to "/Volumes/WyDrive_NRT/tv/" complete
+11:55:36,655 root INFO Runtime was 36.642905950546265 seconds
+11:55:36,656 root INFO Total runtime: 64.44416522979736 seconds
+11:57:08,637 root INFO ======== START TRANSFER ========
+11:57:08,637 root INFO Selected targets: ['/Volumes/WyDrive_MIA/videos/tv', '/Volumes/WyDrive_NRT/tv/']
+11:57:08,637 root INFO ..Transferring to a target..
+11:57:08,637 root INFO 	Source: Westworld (2016) 
+	Target: /Volumes/WyDrive_MIA/videos/tv
+11:59:21,637 root INFO Tranfer to "/Volumes/WyDrive_MIA/videos/tv" complete
+11:59:21,638 root INFO Runtime was 132.99894404411316 seconds
+11:59:21,638 root INFO ..Transferring to a target..
+11:59:21,638 root INFO 	Source: Westworld (2016) 
+	Target: /Volumes/WyDrive_NRT/tv/
+12:02:51,906 root INFO Tranfer to "/Volumes/WyDrive_NRT/tv/" complete
+12:02:51,908 root INFO Runtime was 210.2673909664154 seconds
+12:02:51,908 root INFO Total runtime: 343.27034759521484 seconds
+12:15:10,99 root INFO ======== START TRANSFER ========
+12:15:10,100 root INFO Selected targets: ['/Volumes/WyDrive_MIA/videos/tv', '/Volumes/WyDrive_NRT/tv/']
+12:15:10,100 root INFO ..Transferring to a target..
+12:15:10,100 root INFO 	Source: Succession (2018) 
+	Target: /Volumes/WyDrive_MIA/videos/tv
+12:17:56,996 root INFO Tranfer to "/Volumes/WyDrive_MIA/videos/tv" complete
+12:17:56,998 root INFO Runtime was 166.89572525024414 seconds
+12:17:56,998 root INFO ..Transferring to a target..
+12:17:56,998 root INFO 	Source: Succession (2018) 
+	Target: /Volumes/WyDrive_NRT/tv/
+12:22:17,260 root INFO Tranfer to "/Volumes/WyDrive_NRT/tv/" complete
+12:22:17,262 root INFO Runtime was 260.2608940601349 seconds
+12:22:17,262 root INFO Total runtime: 427.1618733406067 seconds
+13:09:02,860 root INFO ======== START TRANSFER ========
+13:09:02,860 root INFO Selected targets: ['/Volumes/WyDrive_MIA/videos/tv', '/Volumes/WyDrive_NRT/tv/']
+13:09:02,860 root INFO ..Transferring to a target..
+13:09:02,860 root INFO 	Source: BlackAF (2020) 
+	Target: /Volumes/WyDrive_MIA/videos/tv
+13:10:30,955 root INFO ======== START TRANSFER ========
+13:10:30,956 root INFO Selected targets: ['/Volumes/WyDrive_MIA/videos/tv', '/Volumes/WyDrive_NRT/tv/']
+13:10:30,956 root INFO ..Transferring to a target..
+13:10:30,956 root INFO 	Source: BlackAF (2020) 
+	Target: /Volumes/WyDrive_MIA/videos/tv
+13:11:59,107 root INFO Tranfer to "/Volumes/WyDrive_MIA/videos/tv" complete
+13:11:59,109 root INFO Runtime was 88.15164971351624 seconds
+13:11:59,109 root INFO ..Transferring to a target..
+13:11:59,109 root INFO 	Source: BlackAF (2020) 
+	Target: /Volumes/WyDrive_NRT/tv/
+13:15:50,349 root INFO Tranfer to "/Volumes/WyDrive_NRT/tv/" complete
+13:15:50,350 root INFO Runtime was 231.23907208442688 seconds
+13:15:50,350 root INFO Total runtime: 319.3940169811249 seconds
+00:10:24,608 root INFO ======== START TRANSFER ========
+00:10:24,609 root INFO Selected targets: ['/Volumes/WyDrive_MIA/videos/tv', '/Volumes/WyDrive_NRT/tv/']
+00:10:24,609 root INFO ..Transferring to a target..
+00:10:24,609 root INFO 	Source: * 
+	Target: /Volumes/WyDrive_MIA/videos/tv
+00:10:24,624 root INFO Tranfer to "/Volumes/WyDrive_MIA/videos/tv" complete
+00:10:24,624 root INFO Runtime was 0.015288114547729492 seconds
+00:10:24,624 root INFO ..Transferring to a target..
+00:10:24,624 root INFO 	Source: * 
+	Target: /Volumes/WyDrive_NRT/tv/
+00:10:24,629 root INFO Tranfer to "/Volumes/WyDrive_NRT/tv/" complete
+00:10:24,629 root INFO Runtime was 0.004770994186401367 seconds
+00:10:24,629 root INFO Total runtime: 0.02061629295349121 seconds
+00:11:17,920 root INFO ======== START TRANSFER ========
+00:11:17,921 root INFO Selected targets: ['/Volumes/WyDrive_MIA/videos/tv', '/Volumes/WyDrive_NRT/tv/']
+00:11:17,921 root INFO ..Transferring to a target..
+00:11:17,921 root INFO 	Source: BlackAF (2020) 
+	Target: /Volumes/WyDrive_MIA/videos/tv
+00:11:17,977 root INFO Tranfer to "/Volumes/WyDrive_MIA/videos/tv" complete
+00:11:17,978 root INFO Runtime was 0.056381940841674805 seconds
+00:11:17,978 root INFO ..Transferring to a target..
+00:11:17,978 root INFO 	Source: BlackAF (2020) 
+	Target: /Volumes/WyDrive_NRT/tv/
+00:11:18,521 root INFO Tranfer to "/Volumes/WyDrive_NRT/tv/" complete
+00:11:18,521 root INFO Runtime was 0.5434508323669434 seconds
+00:11:18,521 root INFO Total runtime: 0.6005740165710449 seconds
+00:12:00,604 root INFO ======== START TRANSFER ========
+00:12:00,605 root INFO Selected targets: ['/Volumes/WyDrive_MIA/videos/tv', '/Volumes/WyDrive_NRT/tv/']
+00:12:00,605 root INFO ..Transferring to a target..
+00:12:00,605 root INFO 	Source: Euphoria (2019) 
+	Target: /Volumes/WyDrive_MIA/videos/tv
+00:15:12,854 root INFO Tranfer to "/Volumes/WyDrive_MIA/videos/tv" complete
+00:15:12,856 root INFO Runtime was 192.24862217903137 seconds
+00:15:12,856 root INFO ..Transferring to a target..
+00:15:12,856 root INFO 	Source: Euphoria (2019) 
+	Target: /Volumes/WyDrive_NRT/tv/
+00:20:05,235 root INFO Tranfer to "/Volumes/WyDrive_NRT/tv/" complete
+00:20:05,237 root INFO Runtime was 292.3787462711334 seconds
+00:20:05,237 root INFO Total runtime: 484.6326549053192 seconds
+10:39:15,262 root INFO ======== START TRANSFER ========
+10:39:15,262 root INFO Selected targets: ['/Volumes/WyDrive_MIA/videos/tv', '/Volumes/WyDrive_NRT/tv/']
+10:39:15,262 root INFO ..Transferring to a target..
+10:39:15,262 root INFO 	Source: 30_Rock (2006) 
+	Target: /Volumes/WyDrive_MIA/videos/tv
+10:42:02,411 root INFO Tranfer to "/Volumes/WyDrive_MIA/videos/tv" complete
+10:42:02,413 root INFO Runtime was 167.14837789535522 seconds
+10:42:02,413 root INFO ..Transferring to a target..
+10:42:02,413 root INFO 	Source: 30_Rock (2006) 
+	Target: /Volumes/WyDrive_NRT/tv/
+10:46:22,56 root INFO Tranfer to "/Volumes/WyDrive_NRT/tv/" complete
+10:46:22,58 root INFO Runtime was 259.64302802085876 seconds
+10:46:22,58 root INFO Total runtime: 426.79591131210327 seconds
